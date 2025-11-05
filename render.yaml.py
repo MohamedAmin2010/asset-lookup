@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: asset-lookup
+    env: python
+    buildCommand: ""
+    startCommand: python app.py
