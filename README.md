@@ -32,4 +32,6 @@ asset-lookup/
    ```bash
    git clone https://github.com/MohamedAmin2010/asset-lookup.git
    cd asset-lookup
+   gunicorn app:app --bind 0.0.0.0:$PORT
+   
    
