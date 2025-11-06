@@ -20,4 +20,16 @@ The app reads data from an Excel file (`assets.xlsx`) and displays details such 
 ---
 
 ## 📂 Project Structure
+asset-lookup/
+│
+├── main.py            # Flask app entry point
+├── assets.xlsx        # Asset data file
+├── requirements.txt   # Dependencies
+└── README.md          # Project documentation
+## Installation & Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MohamedAmin2010/asset-lookup.git
+   cd asset-lookup
    
