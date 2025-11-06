@@ -60,6 +60,8 @@ asset-lookup/
 git add README.md
 git commit -m "Update README with correct setup instructions"
 git push origin main
+## Live Demo
+[Visit the app](https://asset-lookup.onrender.com)
 
    
    
